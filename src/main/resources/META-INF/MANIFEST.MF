@@ -6,3 +6,4 @@ Bundle-Version: 1.0.0
 Bundle-Name: visual-importer-core
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.nuxeo.workshop.visualimporter.visual-importer-core;singleton=true
+Nuxeo-Component: OSGI-INF/visual-importer-contrib.xml
